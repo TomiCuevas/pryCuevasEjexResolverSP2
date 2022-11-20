@@ -1,0 +1,11 @@
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryEjercicioXresolverSP2\pryEjercicioXresolverSP2\bin\Debug\pryEjercicioXresolverSP2.exe.config
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryEjercicioXresolverSP2\pryEjercicioXresolverSP2\bin\Debug\pryEjercicioXresolverSP2.exe
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryEjercicioXresolverSP2\pryEjercicioXresolverSP2\bin\Debug\pryEjercicioXresolverSP2.pdb
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryEjercicioXresolverSP2\pryEjercicioXresolverSP2\obj\Debug\pryEjercicioXresolverSP2.csproj.AssemblyReference.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryEjercicioXresolverSP2\pryEjercicioXresolverSP2\obj\Debug\pryEjercicioXresolverSP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryEjercicioXresolverSP2\pryEjercicioXresolverSP2\obj\Debug\pryEjercicioXresolverSP2.frmFerro.resources
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryEjercicioXresolverSP2\pryEjercicioXresolverSP2\obj\Debug\pryEjercicioXresolverSP2.Properties.Resources.resources
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryEjercicioXresolverSP2\pryEjercicioXresolverSP2\obj\Debug\pryEjercicioXresolverSP2.csproj.GenerateResource.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryEjercicioXresolverSP2\pryEjercicioXresolverSP2\obj\Debug\pryEjercicioXresolverSP2.csproj.CoreCompileInputs.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryEjercicioXresolverSP2\pryEjercicioXresolverSP2\obj\Debug\pryEjercicioXresolverSP2.exe
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryEjercicioXresolverSP2\pryEjercicioXresolverSP2\obj\Debug\pryEjercicioXresolverSP2.pdb
